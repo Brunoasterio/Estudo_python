@@ -1,2 +1,2 @@
 # Estudo_python
- Estaundo Python
+ Estudando Python
